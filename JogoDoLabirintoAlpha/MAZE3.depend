@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626379998 source:c:\joão lucas\dev-c++_code blocks\maze3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+
